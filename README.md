@@ -1,6 +1,8 @@
 # tinymce-editattributes
 A plugin allowing edition and addition of attributes for TinyMCE 4
 
+![Image](./docs/tinymce-attributes.png)
+
 How to install the plugin
 =========================
 
