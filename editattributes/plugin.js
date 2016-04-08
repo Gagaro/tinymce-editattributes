@@ -55,7 +55,7 @@ tinymce.PluginManager.add('editattributes', function(editor) {
 	});
 
 	editor.addMenuItem('editattributes', {
-		icon: 'editattributes',
+		icon: 'anchor',
 		text: 'Edit Attributes',
 		onclick: showDialog
 	});

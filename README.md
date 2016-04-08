@@ -12,6 +12,6 @@ How to install the plugin
 
   plugins : "... editattributes ..."
 
-3. set up your instance to use the imgmap button, for example::
+3. set up your instance to use the button, for example::
 
   toolbar : "... | editattributes"
